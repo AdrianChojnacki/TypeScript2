@@ -20,3 +20,5 @@ example.push(p1);
 example.push(p2);
 
 example.map((point) => point.x);
+
+const exampleFunction = (element: T) => element;
