@@ -21,4 +21,4 @@ example.push(p2);
 
 example.map((point) => point.x);
 
-const exampleFunction = (element: T) => element;
+const exampleFunction = <T>(element: T) => element;
