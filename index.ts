@@ -3,6 +3,8 @@ interface Point {
   y: number;
 }
 
+const AUTOR = 'Adrian';
+
 const p1: Point = {
   x: 5,
   y: 4,
