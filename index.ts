@@ -22,3 +22,5 @@ example.push(p2);
 example.map((point) => point.x);
 
 const exampleFunction = <T>(element: T) => element;
+
+const test1 = exampleFunction(5);
